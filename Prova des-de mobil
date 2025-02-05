@@ -1,1 +1,3 @@
-a="Hola mon"
+a="Hola món"
+b="Adeu món"
+Print(a+b)
